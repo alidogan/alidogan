@@ -2,7 +2,7 @@
 
 # Ali Dogan
 
-### Freelance Software & Platform Engineer · PrimeDev
+### Freelance Software & Platform Engineer · PrimeDotnet
 
 I build maintainable software and reliable infrastructure — from application architecture to Kubernetes operations.
 
@@ -13,7 +13,7 @@ I build maintainable software and reliable infrastructure — from application a
 
 ## About me
 
-I am a freelance software and platform engineer based in the Netherlands, operating under the trade name **PrimeDev**. I help organisations turn business requirements into maintainable software and dependable production environments, with a strong focus on architecture, automation, security, and long-term value.
+I am a freelance software and platform engineer based in the Netherlands, operating under the trade name **PrimeDotnet**. I help organisations turn business requirements into maintainable software and dependable production environments, with a strong focus on architecture, automation, security, and long-term value.
 
 My experience covers the full delivery lifecycle: understanding the problem, designing and building the solution, automating delivery, deploying it, and operating the underlying infrastructure. I work across application development, CI/CD, container platforms, networking, and Linux server management.
 
