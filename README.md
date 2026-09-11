@@ -6,6 +6,7 @@
 
 I build maintainable software and reliable infrastructure — from application architecture to Kubernetes operations.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-primedotnet.nl-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://www.primedotnet.nl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-dogan-80209268/)
 
 </div>
@@ -17,6 +18,8 @@ I am a freelance software and platform engineer based in the Netherlands, operat
 My experience covers the full delivery lifecycle: understanding the problem, designing and building the solution, automating delivery, deploying it, and operating the underlying infrastructure. I work across application development, CI/CD, container platforms, networking, and Linux server management.
 
 I value pragmatic engineering, clear communication, and solutions that remain understandable and adaptable as a business grows.
+
+For an overview of my work, experience, and projects, visit my **[portfolio](https://www.primedotnet.nl/)**.
 
 ## What I do
 
@@ -71,7 +74,8 @@ A C# forecasting tool exploring demand prediction and data-driven planning.
 
 ## Let's connect
 
-I am always interested in exchanging ideas about software architecture, product development, and meaningful technical challenges.
+I am always interested in exchanging ideas about software architecture, platform engineering, product development, and meaningful technical challenges.
 
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/ali-dogan-80209268/)
-- Explore my repositories here on GitHub
+- 🌐 [Portfolio — primedotnet.nl](https://www.primedotnet.nl/)
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/ali-dogan-80209268/)
+- 💻 Explore my repositories here on GitHub
