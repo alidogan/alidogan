@@ -40,7 +40,7 @@ For an overview of my work, experience, and projects, visit my **[portfolio](htt
 **Containers & orchestration:** Docker, Docker Compose, Kubernetes, Helm charts  
 **CI/CD:** GitHub Actions, automated build, test, and deployment workflows  
 **Networking & edge:** Traefik Proxy, Cloudflare DNS, Cloudflare Tunnels, wildcard TLS certificates  
-**Cloud & platform operations:** Microsoft Azure, Portainer, Teleport, S3-compatible object storage, VPS management  
+**Cloud & platform operations:** Microsoft Azure, Rancher, Portainer, Teleport, S3-compatible object storage, VPS management  
 **Linux:** Ubuntu Server, Debian Server, server security, hardening, and optimisation  
 **Engineering practices:** Clean Architecture, SOLID, automated testing, Git, technical documentation
 
