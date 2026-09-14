@@ -48,7 +48,7 @@ For an overview of my work, experience, and projects, visit my **[portfolio](htt
 
 ### [MenuSnap.Server](https://github.com/alidogan/MenuSnap.Server)
 
-My personal hobby project: an open-source QR menu application, currently in development.
+My personal hobby project: an open-source QR menu application built with a **modular monolith architecture**, currently in development.
 
 ### [Smart Agenda](https://github.com/alidogan/Smart-Agenda)
 
