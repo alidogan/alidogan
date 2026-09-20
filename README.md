@@ -2,7 +2,7 @@
 
 # Ali Dogan
 
-### Freelance Software & Platform Engineer · PrimeDotnet
+### Freelance Lead Software Engineer & Solution Architect · PrimeDotnet
 
 I build maintainable software and reliable infrastructure — from application architecture to Kubernetes operations.
 
